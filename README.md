@@ -15,7 +15,7 @@ INSIGHTS AND RECOMMENDATION
 Data was collected, analyzed, and visualized from the recently concluded survey to provide insight to guide business needs. The survey revealed that 388 respondents participated in the online customer preference survey with a total of 222 males and 166 females. 268 of the respondents are single, mostly students in age group ranging from 20 25 years with no income, and they account for 69.1% of the total respondents.
 This foretells that subsequently; the customers would continue to fall into this category. To ensure continuous patronage from this category of customers, I would recommend the company have a budget friendly meal and a delivery discount on frequent orders specially for students.
 
-2. Medium Order
+3. Medium Order
 There are two medium order Medium (P1) and Medium (P2)
 
 The survey revealed that 358 of the customers prefer food delivery apps and this accounts for 92.2% of the customers' preference Medium (P1) while 5.7% would walk in, 1.3% would place a direct call, and 0.8% use web browser. I would recommend that the company improve its food delivery app user interface to be user friendly, lightweight, secure, and fast performance. This will encourage more users to subscribe to the app.
